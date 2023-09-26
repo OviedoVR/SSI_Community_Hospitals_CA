@@ -7,6 +7,6 @@ Data from 262 community hospitalar facilites in 2017.
 - **Streamlit app**:
   
  <p aling="center">
- <img src="https://github.com/OviedoVR/Brazilian-properties-appreciation/blob/main/assets/BR-properties-dataviz-storytelling.png" 
+ <img src="./assets/SSI-ca-cover.png" 
   width="900"/>
   </p>
