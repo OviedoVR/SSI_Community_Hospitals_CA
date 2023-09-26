@@ -8,5 +8,5 @@ Data from 262 community hospitalar facilites in 2017.
   
  <p aling="center">
  <img src="./assets/SSI-ca-cover.png" 
-  width="900"/>
+  width="750"/>
   </p>
