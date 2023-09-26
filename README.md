@@ -18,4 +18,4 @@ TLDR:
 
 - **Original data**: [Kaggle](https://www.kaggle.com/datasets/aimlanalytics/surgicalsiteinfectionsssishealthcare)
 - **Data Cleaning**: [GitHub Folder](https://github.com/OviedoVR/SSI_Community_Hospitals_CA/tree/main/data_cleaning)
-- **Streamlit app**:
+- **Streamlit app**: https://surgical-site-infections-dataviz.streamlit.app/
