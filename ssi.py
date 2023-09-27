@@ -80,7 +80,7 @@ fig.add_hline(y=3, line_dash='dash', line_color='#e87b0e', line_width=2, annotat
 
 # Update the layout:
 fig.update_layout(
-    height=475,
+    height=450,
     title='SSI ratio (%) by facility',
     xaxis_title='',
     yaxis_title='',
